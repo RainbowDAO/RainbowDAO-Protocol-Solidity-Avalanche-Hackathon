@@ -172,10 +172,9 @@ Github:
 https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool
 
 
-
 ## Press Release
 
-1. Rainbowcity Foundation announces official launch of DAO infrastructure project
+1.Rainbowcity Foundation announces official launch of DAO infrastructure project
 
 https://ambcrypto.com/rainbowcity-foundation-announces-official-launch-of-dao-infrastructure-project/
 
