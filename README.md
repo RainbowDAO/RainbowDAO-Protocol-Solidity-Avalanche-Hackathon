@@ -174,32 +174,31 @@ https://github.com/RainbowDAO/09-ETHDenver2022-DAO-Exchange-Pool
 
 ## Press Release
 
-1.Rainbowcity Foundation announces official launch of DAO infrastructure project
-
+1.Rainbowcity Foundation announces official launch of DAO infrastructure project  
 https://ambcrypto.com/rainbowcity-foundation-announces-official-launch-of-dao-infrastructure-project/
 
-2.Rainbowcity Foundation Launches RainbowDAO Protocol in Gitcoin Grant 12
+2.Rainbowcity Foundation Launches RainbowDAO Protocol in Gitcoin Grant 12  
 https://cryptopotato.com/rainbowcity-foundation-launches-rainbowdao-protocol-in-gitcoin-grant-12/
 
-3.Rainbowcity Foundation Announces the Official Launch of DAO Infrastructure Project RainbowDAO Protocol in Gitcoin Grant 12
+3.Rainbowcity Foundation Announces the Official Launch of DAO Infrastructure Project RainbowDAO Protocol in Gitcoin Grant 12  
 https://u.today/press-releases/rainbowcity-foundation-announces-the-official-launch-of-dao-infrastructure-project
 
-4.The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!
+4.The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!  
 https://finance.yahoo.com/news/2021-dao-global-hackathon-ended-174200673.html?.tsrc=fin-srch
 
-5.The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!
+5.The 2021 DAO Global Hackathon ended and the RainbowDAO team won three awards!  
 https://apnews.com/press-release/kisspr/technology-philanthropy-singapore-baae13a7c821e4e7bcf0dc6c62de0b91
 
-6.RainbowDAO is the champion of Metaverse Hackathon in DAO tool track
+6.RainbowDAO is the champion of Metaverse Hackathon in DAO tool track  
 https://ambcrypto.com/rainbowdao-is-the-champion-of-metaverse-hackathon-in-dao-tool-track/
 
-7.Web3 Foundation Grants — Wave 12 Recipients
+7.Web3 Foundation Grants — Wave 12 Recipients  
 https://medium.com/web3foundation/web3-foundation-grants-wave-12-recipients-7e2b6bfb69be
 
-8.Multi-chain DAO infrastructure protocol RainbowDAO receives a Web3 Foundation grant
+8.Multi-chain DAO infrastructure protocol RainbowDAO receives a Web3 Foundation grant  
 https://medium.com/rainbowcity/multi-chain-dao-infrastructure-protocol-rainbowdao-receives-a-web3-foundation-grant-143e9fac63bd
 
-9.Multi-Chain DAO Infrastructure Protocol RainbowDAO Receives a Web3 Foundation Grant
+9.Multi-Chain DAO Infrastructure Protocol RainbowDAO Receives a Web3 Foundation Grant  
 https://coincodex.com/article/13686/multi-chain-dao-infrastructure-protocol-rainbowdao-receives-a-web3-foundation-grant/
 
 
